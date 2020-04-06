@@ -9,7 +9,7 @@ body {
   text-align: center;
 }
 
-a {
+a:link {
 	color: #c3d264;
 	font-weight: bold;
 }
