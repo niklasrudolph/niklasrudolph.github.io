@@ -3,5 +3,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   margin-left: 20px;
   color: white;
-  align: center;
+  margin: auto;
+  width: 50%;
+  padding: 20px;
 }
