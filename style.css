@@ -9,6 +9,15 @@ body {
   text-align: center;
 }
 
+a {
+	color: #c3d264;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
 img {
   border-radius: 50%;
 }
